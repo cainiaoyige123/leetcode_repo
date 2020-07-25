@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e315712-e3ab-4caa-9eca-73fc9d61412c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/maven/apache-maven-3.5.3/conf/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.5.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cVt4KRyoLW0toypPfAQDfiXzOV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.ArrayPrint">
+    <configuration name="AOEGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.AOEGame" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.ArrayPrint" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.MostArea" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.cn.ReorderList" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.Test1" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayPrint" />
+        <item itemvalue="Application.ReorderList" />
+        <item itemvalue="Application.MostArea" />
+        <item itemvalue="Application.AOEGame" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e315712-e3ab-4caa-9eca-73fc9d61412c" name="Default Changelist" comment="" />
+      <created>1590625395556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590625395556</updated>
+      <workItem from="1590625397391" duration="2230000" />
+      <workItem from="1590632621124" duration="153000" />
+      <workItem from="1590759496435" duration="12871000" />
+      <workItem from="1590931894667" duration="5179000" />
+      <workItem from="1592577452282" duration="2720000" />
+      <workItem from="1592632372608" duration="9106000" />
+      <workItem from="1593611782235" duration="552000" />
+      <workItem from="1593612339584" duration="4540000" />
+      <workItem from="1593698186896" duration="2619000" />
+      <workItem from="1594083872553" duration="4405000" />
+      <workItem from="1594216755515" duration="4147000" />
+      <workItem from="1594221749770" duration="2221000" />
+      <workItem from="1594299398651" duration="12996000" />
+      <workItem from="1594379602760" duration="2281000" />
+      <workItem from="1594382365530" duration="236000" />
+      <workItem from="1594648727270" duration="2591000" />
+      <workItem from="1594706764550" duration="3242000" />
+      <workItem from="1595141019229" duration="10839000" />
+      <workItem from="1595170402022" duration="4445000" />
+      <workItem from="1595233352444" duration="9460000" />
+      <workItem from="1595312914973" duration="4639000" />
+      <workItem from="1595338823641" duration="6160000" />
+      <workItem from="1595466956345" duration="2545000" />
+      <workItem from="1595512161802" duration="3104000" />
+      <workItem from="1595576724553" duration="918000" />
+      <workItem from="1595577844533" duration="9122000" />
+      <workItem from="1595668999623" duration="3623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="105" width="374" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1592633899555">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="105" width="374" height="583" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1592633899555" />
+    <state x="432" y="273" width="501" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595669047140">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="432" y="273" width="501" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741@0.27.1366.741" timestamp="1595669047140" />
+    <state x="404" y="150" width="424" height="482" key="FileChooserDialogImpl" timestamp="1590625480925">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="404" y="150" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1590625480925" />
+    <state width="1312" height="164" key="GridCell.Tab.0.bottom" timestamp="1595671101008">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="164" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1595671101008" />
+    <state width="1312" height="164" key="GridCell.Tab.0.center" timestamp="1595671101007">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="164" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1595671101007" />
+    <state width="1312" height="164" key="GridCell.Tab.0.left" timestamp="1595671101006">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="164" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1595671101006" />
+    <state width="1312" height="164" key="GridCell.Tab.0.right" timestamp="1595671101007">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="164" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1595671101007" />
+    <state width="1312" height="240" key="GridCell.Tab.1.bottom" timestamp="1595580286863">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="240" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1595580286863" />
+    <state width="1312" height="240" key="GridCell.Tab.1.center" timestamp="1595580286861">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="240" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1595580286861" />
+    <state width="1312" height="240" key="GridCell.Tab.1.left" timestamp="1595580286861">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="240" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1595580286861" />
+    <state width="1312" height="240" key="GridCell.Tab.1.right" timestamp="1595580286862">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="240" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1595580286862" />
+    <state x="149" y="40" width="1017" height="728" key="SettingsEditor" timestamp="1594711627181">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="149" y="40" width="1017" height="728" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1594711627181" />
+    <state width="535" height="449" key="SwitcherDM" timestamp="1595467525037">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="535" height="449" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1595467525037" />
+    <state x="218" y="27" width="920" height="739" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594222083344">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="218" y="27" width="920" height="739" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1594222083344" />
+    <state x="416" y="139" width="524" height="514" key="extract.method.dialog" timestamp="1595150359722">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="139" width="524" height="514" key="extract.method.dialog/0.27.1366.741@0.27.1366.741" timestamp="1595150359722" />
+    <state x="331" y="75" width="703" height="644" key="find.popup" timestamp="1590762442426">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="331" y="75" width="703" height="644" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1590762442426" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1595467665826">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1595467665826" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/[76]最小覆盖子串.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/[15]三数之和.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
