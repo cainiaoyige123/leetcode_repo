@@ -1,4 +1,4 @@
-package sort;
+package others.sort;
 //归并排序数组实现
 public class MergeSortArray {
 

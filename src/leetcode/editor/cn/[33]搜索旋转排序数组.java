@@ -107,6 +107,7 @@ class SearchInRotatedSortedArray {
             }
             return -1;
         }
+
     }
 //leetcode submit region end(Prohibit modification and deletion)
 

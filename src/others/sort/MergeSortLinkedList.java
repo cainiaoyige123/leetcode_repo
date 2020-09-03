@@ -1,4 +1,4 @@
-package sort;
+package others.sort;
 //归并排序链表实现
 public class MergeSortLinkedList {
 

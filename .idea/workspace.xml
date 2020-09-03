@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e315712-e3ab-4caa-9eca-73fc9d61412c" name="Default Changelist" comment="" />
+    <list default="true" id="9e315712-e3ab-4caa-9eca-73fc9d61412c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/[1]两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/[1]两数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/[32]最长有效括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/[32]最长有效括号.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/[33]搜索旋转排序数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/[33]搜索旋转排序数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/others/sort/MergeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/sort/MergeSortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/others/sort/MergeSortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/sort/MergeSortLinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="188" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -41,13 +53,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1cVt4KRyoLW0toypPfAQDfiXzOV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -61,11 +76,51 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.rmicompiler" />
   </component>
-  <component name="RunManager" selected="Application.ArrayPrint">
-    <configuration name="AOEGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.AOEGame" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="ContinuousSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.ContinuousSubarraySum" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteAndEarn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.DeleteAndEarn" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Largest1BorderedSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.Largest1BorderedSquare" />
+      <module name="leetcode-repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.MyTest" />
       <module name="leetcode-repo" />
       <extension name="coverage">
         <pattern>
@@ -77,51 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.ArrayPrint" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.sort.QuickSort" />
       <module name="leetcode-repo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MostArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.MostArea" />
-      <module name="leetcode-repo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.cn.ReorderList" />
-      <module name="leetcode-repo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.Test1" />
-      <module name="leetcode-repo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.*" />
+          <option name="PATTERN" value="others.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayPrint" />
-        <item itemvalue="Application.ReorderList" />
-        <item itemvalue="Application.MostArea" />
-        <item itemvalue="Application.AOEGame" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MyTest" />
+        <item itemvalue="Application.ContinuousSubarraySum" />
+        <item itemvalue="Application.DeleteAndEarn" />
+        <item itemvalue="Application.Largest1BorderedSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +191,35 @@
       <workItem from="1595512161802" duration="3104000" />
       <workItem from="1595576724553" duration="918000" />
       <workItem from="1595577844533" duration="9122000" />
-      <workItem from="1595668999623" duration="3623000" />
+      <workItem from="1595668999623" duration="4221000" />
+      <workItem from="1595684557478" duration="5252000" />
+      <workItem from="1595726042069" duration="12876000" />
+      <workItem from="1595811730191" duration="632000" />
+      <workItem from="1595812447831" duration="1596000" />
+      <workItem from="1595814234772" duration="6894000" />
+      <workItem from="1595938981512" duration="5299000" />
+      <workItem from="1596028462304" duration="5732000" />
+      <workItem from="1596071082750" duration="11320000" />
+      <workItem from="1596249790461" duration="5762000" />
+      <workItem from="1596258027448" duration="6858000" />
+      <workItem from="1596273892404" duration="2876000" />
+      <workItem from="1596290070989" duration="27181000" />
+      <workItem from="1596376793584" duration="27925000" />
+      <workItem from="1596790273983" duration="15541000" />
+      <workItem from="1596897267572" duration="19000" />
+      <workItem from="1596897369015" duration="804000" />
+      <workItem from="1597065369644" duration="9154000" />
+      <workItem from="1597242268121" duration="16189000" />
+      <workItem from="1597717629630" duration="1157000" />
+      <workItem from="1597933512719" duration="21000" />
+      <workItem from="1597933574363" duration="3053000" />
+      <workItem from="1598105669500" duration="3764000" />
+      <workItem from="1598109702483" duration="1832000" />
+      <workItem from="1598193498035" duration="2591000" />
+      <workItem from="1598197321569" duration="3036000" />
+      <workItem from="1598705632972" duration="10000" />
+      <workItem from="1598705696305" duration="343000" />
+      <workItem from="1599123049138" duration="850000" />
     </task>
     <servers />
   </component>
@@ -183,54 +227,58 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="105" width="374" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1592633899555">
+    <state x="491" y="105" width="374" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1597242878146">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="491" y="105" width="374" height="583" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1592633899555" />
+    <state x="491" y="105" width="374" height="583" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1597242878146" />
     <state x="432" y="273" width="501" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595669047140">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="432" y="273" width="501" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741@0.27.1366.741" timestamp="1595669047140" />
+    <state x="414" y="239" width="527" height="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597072772719">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="414" y="239" width="527" height="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1597072772719" />
     <state x="404" y="150" width="424" height="482" key="FileChooserDialogImpl" timestamp="1590625480925">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="404" y="150" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1590625480925" />
-    <state width="1312" height="164" key="GridCell.Tab.0.bottom" timestamp="1595671101008">
+    <state width="1312" height="122" key="GridCell.Tab.0.bottom" timestamp="1598705911018">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="164" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1595671101008" />
-    <state width="1312" height="164" key="GridCell.Tab.0.center" timestamp="1595671101007">
+    <state width="1312" height="122" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1598705911018" />
+    <state width="1312" height="122" key="GridCell.Tab.0.center" timestamp="1598705911016">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="164" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1595671101007" />
-    <state width="1312" height="164" key="GridCell.Tab.0.left" timestamp="1595671101006">
+    <state width="1312" height="122" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1598705911016" />
+    <state width="1312" height="122" key="GridCell.Tab.0.left" timestamp="1598705911015">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="164" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1595671101006" />
-    <state width="1312" height="164" key="GridCell.Tab.0.right" timestamp="1595671101007">
+    <state width="1312" height="122" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1598705911015" />
+    <state width="1312" height="122" key="GridCell.Tab.0.right" timestamp="1598705911017">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="164" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1595671101007" />
-    <state width="1312" height="240" key="GridCell.Tab.1.bottom" timestamp="1595580286863">
+    <state width="1312" height="122" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1598705911017" />
+    <state width="1312" height="204" key="GridCell.Tab.1.bottom" timestamp="1598705910961">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="240" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1595580286863" />
-    <state width="1312" height="240" key="GridCell.Tab.1.center" timestamp="1595580286861">
+    <state width="1312" height="204" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1598705910961" />
+    <state width="1312" height="204" key="GridCell.Tab.1.center" timestamp="1598705910959">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="240" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1595580286861" />
-    <state width="1312" height="240" key="GridCell.Tab.1.left" timestamp="1595580286861">
+    <state width="1312" height="204" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1598705910959" />
+    <state width="1312" height="204" key="GridCell.Tab.1.left" timestamp="1598705910958">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="240" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1595580286861" />
-    <state width="1312" height="240" key="GridCell.Tab.1.right" timestamp="1595580286862">
+    <state width="1312" height="204" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1598705910958" />
+    <state width="1312" height="204" key="GridCell.Tab.1.right" timestamp="1598705910960">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1312" height="240" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1595580286862" />
-    <state x="149" y="40" width="1017" height="728" key="SettingsEditor" timestamp="1594711627181">
+    <state width="1312" height="204" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1598705910960" />
+    <state x="149" y="40" width="1017" height="728" key="SettingsEditor" timestamp="1596343681578">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="149" y="40" width="1017" height="728" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1594711627181" />
+    <state x="149" y="40" width="1017" height="728" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1596343681578" />
     <state width="535" height="449" key="SwitcherDM" timestamp="1595467525037">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -239,6 +287,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="218" y="27" width="920" height="739" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1594222083344" />
+    <state x="100" y="127" width="1166" height="541" key="dock-window-1" timestamp="1596378534682">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1596378534682" />
     <state x="416" y="139" width="524" height="514" key="extract.method.dialog" timestamp="1595150359722">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -247,10 +299,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="331" y="75" width="703" height="644" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1590762442426" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1595467665826">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598194647165">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1595467665826" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1598194647165" />
+    <state x="408" y="307" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595739862990">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="408" y="307" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1595739862990" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -265,7 +321,43 @@
           <line>30</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/[1]两数之和.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/[1139]最大的以 1 为边界的正方形.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/editor/cn/[740]删除与获得点数.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/others/MyTest.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/others/sort/QuickSort.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode_repo$LC11.ic" NAME="LC11 Coverage Results" MODIFIED="1597066712751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>others.niuke.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode_repo$MyTest.ic" NAME="MyTest Coverage Results" MODIFIED="1596345280519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>others.回溯.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode_repo$JumpGameIi.ic" NAME="JumpGameIi Coverage Results" MODIFIED="1596084030671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.editor.cn.*</FILTER>
+    </SUITE>
   </component>
 </project>
